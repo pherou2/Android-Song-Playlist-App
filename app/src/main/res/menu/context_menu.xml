@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/con_menu_play_vid"
+        android:title="Play video">
+    </item>
+
+    <item
+        android:id="@+id/con_menu_song_wiki"
+        android:title="Visit song wikipedia">
+    </item>
+
+    <item
+        android:id="@+id/con_menu_artist_wiki"
+        android:title="Visit artist wikipedia">
+    </item>
+</menu>

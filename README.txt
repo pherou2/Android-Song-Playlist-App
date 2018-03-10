@@ -1,0 +1,1 @@
+App that allows user to add Songs to playlist. From the options menu the user is able to add (by adding song details and relevant links) and remove songs. Each item in the list supports short click and long click functionality for different options

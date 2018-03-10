@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Song Playlist</string>
+    <string name="add_song_dialog">Please add the following:</string>
+    <string name="add_song_name_input">Song name</string>
+    <string name="add_artist_input">Artist</string>
+    <string name="add_wikipediaSong_input">Wikipedia Song link</string>
+    <string name="add_wikipediaArtist_input">Wikipedia Artist link</string>
+    <string name="add_media_input">Media Link</string>
+    <string name="add_song_button">Add Song</string>
+</resources>
